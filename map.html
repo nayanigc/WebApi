@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_43cf28c292384828ac6dae7d4d48aff2 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_43cf28c292384828ac6dae7d4d48aff2" ></div>
+        
+</body>
+<script>    
+    
+            var map_43cf28c292384828ac6dae7d4d48aff2 = L.map(
+                "map_43cf28c292384828ac6dae7d4d48aff2",
+                {
+                    center: [42.1373025, 13.6111287623982],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 5,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_fee9422629c344998222dd0f7763861a = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+            var marker_f64795c4199549f48e864d0c2af57ff5 = L.marker(
+                [42.1373025, 13.6111287623982],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_703a29cfe709432b85c031e4b14936c0 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f7a9187a73a34bc7aad1ed143fe103ca = $(`<div id="html_f7a9187a73a34bc7aad1ed143fe103ca" style="width: 100.0%; height: 100.0%;"><h2 id="2019">26th SIROCCO 2019: L'Aquila, Italy </div>`)[0];
+            popup_703a29cfe709432b85c031e4b14936c0.setContent(html_f7a9187a73a34bc7aad1ed143fe103ca);
+        
+
+        marker_f64795c4199549f48e864d0c2af57ff5.bindPopup(popup_703a29cfe709432b85c031e4b14936c0)
+        ;
+
+        
+    
+    
+            var marker_1ac861b3b3654211b4414c9dead41bc9 = L.marker(
+                [31.8174857, 35.1115939],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_3ce1a043d2624a2c9b1cfec2a4f5b5c2 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_890843f850f84e5398cfee1df8e2b6cc = $(`<div id="html_890843f850f84e5398cfee1df8e2b6cc" style="width: 100.0%; height: 100.0%;"><h2 id="2018">25th SIROCCO 2018: Ma'ale HaHamisha, Israel </div>`)[0];
+            popup_3ce1a043d2624a2c9b1cfec2a4f5b5c2.setContent(html_890843f850f84e5398cfee1df8e2b6cc);
+        
+
+        marker_1ac861b3b3654211b4414c9dead41bc9.bindPopup(popup_3ce1a043d2624a2c9b1cfec2a4f5b5c2)
+        ;
+
+        
+    
+    
+            var marker_449766016c4e402e853362d8df6d95d9 = L.marker(
+                [43.0002437, 6.2022972],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_7bd0098201564187b0d9455f53a52d42 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6f567978667b4ab7b0458adedea027f0 = $(`<div id="html_6f567978667b4ab7b0458adedea027f0" style="width: 100.0%; height: 100.0%;"><h2 id="2017">24th SIROCCO 2017: Porquerolles, France </div>`)[0];
+            popup_7bd0098201564187b0d9455f53a52d42.setContent(html_6f567978667b4ab7b0458adedea027f0);
+        
+
+        marker_449766016c4e402e853362d8df6d95d9.bindPopup(popup_7bd0098201564187b0d9455f53a52d42)
+        ;
+
+        
+    
+    
+            var marker_6575832cfc2742fc8fbfccc66271dc36 = L.marker(
+                [60.1674086, 24.9425683],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_7383c0d3864c4e298f92ac2b5f58561e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_49d77c87d41746aab9beff60e70e5ca7 = $(`<div id="html_49d77c87d41746aab9beff60e70e5ca7" style="width: 100.0%; height: 100.0%;"><h2 id="2016">23rd SIROCCO 2016: Helsinki, Finland </div>`)[0];
+            popup_7383c0d3864c4e298f92ac2b5f58561e.setContent(html_49d77c87d41746aab9beff60e70e5ca7);
+        
+
+        marker_6575832cfc2742fc8fbfccc66271dc36.bindPopup(popup_7383c0d3864c4e298f92ac2b5f58561e)
+        ;
+
+        
+    
+    
+            var marker_bacb41228ff94c23b8d752c59159bd64 = L.marker(
+                [39.3576494, -0.6031],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_1bacecb22fd44294ab39b794e0ecec93 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9395fce1c8384279b2a7f805900a86e8 = $(`<div id="html_9395fce1c8384279b2a7f805900a86e8" style="width: 100.0%; height: 100.0%;"><h2 id="2015">22nd SIROCCO 2015: Montserrat, Spain </div>`)[0];
+            popup_1bacecb22fd44294ab39b794e0ecec93.setContent(html_9395fce1c8384279b2a7f805900a86e8);
+        
+
+        marker_bacb41228ff94c23b8d752c59159bd64.bindPopup(popup_1bacecb22fd44294ab39b794e0ecec93)
+        ;
+
+        
+    
+    
+            var marker_00b3520663414fddbd1309c012aa0bae = L.marker(
+                [36.1396246, 137.2510322],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_187dfff971c94077b3bf9d04e50a5848 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_f0385a9a86a24bcc84ef7a7110840ca4 = $(`<div id="html_f0385a9a86a24bcc84ef7a7110840ca4" style="width: 100.0%; height: 100.0%;"><h2 id="2014">21st SIROCCO 2014: Takayama, Japan </div>`)[0];
+            popup_187dfff971c94077b3bf9d04e50a5848.setContent(html_f0385a9a86a24bcc84ef7a7110840ca4);
+        
+
+        marker_00b3520663414fddbd1309c012aa0bae.bindPopup(popup_187dfff971c94077b3bf9d04e50a5848)
+        ;
+
+        
+    
+    
+            var marker_6ad3c4d1214d4b898bfaae0c30e4812e = L.marker(
+                [40.734205, 13.947125],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_e5d3941ac11d4894a946858cacb5a311 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c0e9f41e962d4c98b4b8dff7fc8a62aa = $(`<div id="html_c0e9f41e962d4c98b4b8dff7fc8a62aa" style="width: 100.0%; height: 100.0%;"><h2 id="2013">20th SIROCCO 2013: Ischia, Italy </div>`)[0];
+            popup_e5d3941ac11d4894a946858cacb5a311.setContent(html_c0e9f41e962d4c98b4b8dff7fc8a62aa);
+        
+
+        marker_6ad3c4d1214d4b898bfaae0c30e4812e.bindPopup(popup_e5d3941ac11d4894a946858cacb5a311)
+        ;
+
+        
+    
+    
+            var marker_dc619953ab1a4b268f5c8859386f2a50 = L.marker(
+                [64.24450355, -21.7692635721513],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_03c2d1047d554149b414967d5f57eb22 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_fca3a6a1753a4dd58052e55640562530 = $(`<div id="html_fca3a6a1753a4dd58052e55640562530" style="width: 100.0%; height: 100.0%;"><h2 id="2012">19th SIROCCO 2012: Reykjavik, Iceland </div>`)[0];
+            popup_03c2d1047d554149b414967d5f57eb22.setContent(html_fca3a6a1753a4dd58052e55640562530);
+        
+
+        marker_dc619953ab1a4b268f5c8859386f2a50.bindPopup(popup_03c2d1047d554149b414967d5f57eb22)
+        ;
+
+        
+    
+    
+            var marker_b108562e043b4f369e7cc4cf0610a055 = L.marker(
+                [54.36143405, 18.6282184755727],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_2d72c44c2f154d3a9562fb90aed8d796 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_332af70c681245a991eb1fb6d46675da = $(`<div id="html_332af70c681245a991eb1fb6d46675da" style="width: 100.0%; height: 100.0%;"><h2 id="2011">18th SIROCCO 2011: Gdansk, Poland </div>`)[0];
+            popup_2d72c44c2f154d3a9562fb90aed8d796.setContent(html_332af70c681245a991eb1fb6d46675da);
+        
+
+        marker_b108562e043b4f369e7cc4cf0610a055.bindPopup(popup_2d72c44c2f154d3a9562fb90aed8d796)
+        ;
+
+        
+    
+    
+            var marker_8efd38c233a245108fea3c6a5ab98627 = L.marker(
+                [37.942794, 27.4334505],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_6337919a53354a11b24807d19ddae863 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0ded618c6c064d989a8e71b57fdd97d8 = $(`<div id="html_0ded618c6c064d989a8e71b57fdd97d8" style="width: 100.0%; height: 100.0%;"><h2 id="2010">17th SIROCCO 2010: Sirince, Turkey </div>`)[0];
+            popup_6337919a53354a11b24807d19ddae863.setContent(html_0ded618c6c064d989a8e71b57fdd97d8);
+        
+
+        marker_8efd38c233a245108fea3c6a5ab98627.bindPopup(popup_6337919a53354a11b24807d19ddae863)
+        ;
+
+        
+    
+    
+            var marker_136d674816d04b86908a16cd3b0130d5 = L.marker(
+                [45.5289394, 13.5675658],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_85df09169c3b49f4aff74c52500d2801 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_cd5c9cf2357649719d732202bb18af83 = $(`<div id="html_cd5c9cf2357649719d732202bb18af83" style="width: 100.0%; height: 100.0%;"><h2 id="2009">16th SIROCCO 2009: Piran, Slovenia </div>`)[0];
+            popup_85df09169c3b49f4aff74c52500d2801.setContent(html_cd5c9cf2357649719d732202bb18af83);
+        
+
+        marker_136d674816d04b86908a16cd3b0130d5.bindPopup(popup_85df09169c3b49f4aff74c52500d2801)
+        ;
+
+        
+    
+    
+            var marker_ce09c3ef5a5b43df97a80d9dec408541 = L.marker(
+                [46.2977636, 7.055331],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_a62a73e55fb943718730c56bba194f6a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7ee5983933da41cc99066720c44f0950 = $(`<div id="html_7ee5983933da41cc99066720c44f0950" style="width: 100.0%; height: 100.0%;"><h2 id="2008">15th SIROCCO 2008: Villars-sur-Ollon, Switzerland </div>`)[0];
+            popup_a62a73e55fb943718730c56bba194f6a.setContent(html_7ee5983933da41cc99066720c44f0950);
+        
+
+        marker_ce09c3ef5a5b43df97a80d9dec408541.bindPopup(popup_a62a73e55fb943718730c56bba194f6a)
+        ;
+
+        
+    
+    
+            var marker_7643fd19b8f44e6c8b66cac14d2c9de6 = L.marker(
+                [43.4053866, 10.4101503],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_c25ce2015ea74cac9fa76a9bc5ce405c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_5aaac7983ed74638b3a3d78360572743 = $(`<div id="html_5aaac7983ed74638b3a3d78360572743" style="width: 100.0%; height: 100.0%;"><h2 id="2007">14th SIROCCO 2007: Castiglioncello, Italy </div>`)[0];
+            popup_c25ce2015ea74cac9fa76a9bc5ce405c.setContent(html_5aaac7983ed74638b3a3d78360572743);
+        
+
+        marker_7643fd19b8f44e6c8b66cac14d2c9de6.bindPopup(popup_c25ce2015ea74cac9fa76a9bc5ce405c)
+        ;
+
+        
+    
+    
+            var marker_9a94b2a73dae415a924ec2b4683cd5d2 = L.marker(
+                [53.1908873, -2.8908955],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_08640e81eb3b47ddab7aaeb4ab1a1931 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3de4cecd7b6f46ae82902fdf5c7cec1e = $(`<div id="html_3de4cecd7b6f46ae82902fdf5c7cec1e" style="width: 100.0%; height: 100.0%;"><h2 id="2006">13th SIROCCO 2006: Chester, UK </div>`)[0];
+            popup_08640e81eb3b47ddab7aaeb4ab1a1931.setContent(html_3de4cecd7b6f46ae82902fdf5c7cec1e);
+        
+
+        marker_9a94b2a73dae415a924ec2b4683cd5d2.bindPopup(popup_08640e81eb3b47ddab7aaeb4ab1a1931)
+        ;
+
+        
+    
+    
+            var marker_24f32b5b43844feaac16511187ca86b1 = L.marker(
+                [48.6358559, -1.5126096],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_2800fac776d040d0ab66352ab0fa737c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9783c868937b410ab8d9ccc69ec72a36 = $(`<div id="html_9783c868937b410ab8d9ccc69ec72a36" style="width: 100.0%; height: 100.0%;"><h2 id="2005">12th SIROCCO 2005: Mont Saint-Michel, France </div>`)[0];
+            popup_2800fac776d040d0ab66352ab0fa737c.setContent(html_9783c868937b410ab8d9ccc69ec72a36);
+        
+
+        marker_24f32b5b43844feaac16511187ca86b1.bindPopup(popup_2800fac776d040d0ab66352ab0fa737c)
+        ;
+
+        
+    
+    
+            var marker_a8cffed0f121433dbe2041f0dbefdfcd = L.marker(
+                [48.5061696, 17.41532525489],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_64f9f9799b8b4452ae7f2aa022263c7e = L.popup({"maxWidth": "100%"});
+
+        
+            var html_3776111563d84d9aa566dea8c3474187 = $(`<div id="html_3776111563d84d9aa566dea8c3474187" style="width: 100.0%; height: 100.0%;"><h2 id="2004">11th SIROCCO 2004: Smolenice Castle, Slovakia </div>`)[0];
+            popup_64f9f9799b8b4452ae7f2aa022263c7e.setContent(html_3776111563d84d9aa566dea8c3474187);
+        
+
+        marker_a8cffed0f121433dbe2041f0dbefdfcd.bindPopup(popup_64f9f9799b8b4452ae7f2aa022263c7e)
+        ;
+
+        
+    
+    
+            var marker_52e7095945b047a481fdff1f11c7b2eb = L.marker(
+                [63.84206435, 20.25361200207],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_9d414fdd3c0c47d69af142bcf7553bd5 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_71ae0759a7b6452d8644d46eb5ca81fc = $(`<div id="html_71ae0759a7b6452d8644d46eb5ca81fc" style="width: 100.0%; height: 100.0%;"><h2 id="2003">10th SIROCCO 2003: Umeå, Sweden </div>`)[0];
+            popup_9d414fdd3c0c47d69af142bcf7553bd5.setContent(html_71ae0759a7b6452d8644d46eb5ca81fc);
+        
+
+        marker_52e7095945b047a481fdff1f11c7b2eb.bindPopup(popup_9d414fdd3c0c47d69af142bcf7553bd5)
+        ;
+
+        
+    
+    
+            var marker_ac50311087e64264bf00da28bc1d2adc = L.marker(
+                [37.8408347, 24.8623855311587],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_c0207150b0724b0ba2f46f7bbf26abba = L.popup({"maxWidth": "100%"});
+
+        
+            var html_93c8ed6e523e45c5b07434cd550b9a17 = $(`<div id="html_93c8ed6e523e45c5b07434cd550b9a17" style="width: 100.0%; height: 100.0%;"><h2 id="2002">9th SIROCCO 2002: Andros, Greece </div>`)[0];
+            popup_c0207150b0724b0ba2f46f7bbf26abba.setContent(html_93c8ed6e523e45c5b07434cd550b9a17);
+        
+
+        marker_ac50311087e64264bf00da28bc1d2adc.bindPopup(popup_c0207150b0724b0ba2f46f7bbf26abba)
+        ;
+
+        
+    
+    
+            var marker_a07e6108f7fe400ca70a98efd9c829a9 = L.marker(
+                [42.1373025, 13.6111287623982],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_b656c04917d540948e64842d8ec896da = L.popup({"maxWidth": "100%"});
+
+        
+            var html_acaa4cb11ec94dc0a571eb319ab0e26f = $(`<div id="html_acaa4cb11ec94dc0a571eb319ab0e26f" style="width: 100.0%; height: 100.0%;"><h2 id="2001">8th SIROCCO 2001: Val de Nuria, Spain </div>`)[0];
+            popup_b656c04917d540948e64842d8ec896da.setContent(html_acaa4cb11ec94dc0a571eb319ab0e26f);
+        
+
+        marker_a07e6108f7fe400ca70a98efd9c829a9.bindPopup(popup_b656c04917d540948e64842d8ec896da)
+        ;
+
+        
+    
+    
+            var marker_3f2ad9099fe1407ba63b9e9b3148a850 = L.marker(
+                [45.0014797, -1.1962844],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_2ee5bb5d425d473ba9fc9adefdc68f8f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c20e1120fa664b06b67f2dfb3bae0821 = $(`<div id="html_c20e1120fa664b06b67f2dfb3bae0821" style="width: 100.0%; height: 100.0%;"><h2 id="2000">7th SIROCCO 2000: Laquila, Italy </div>`)[0];
+            popup_2ee5bb5d425d473ba9fc9adefdc68f8f.setContent(html_c20e1120fa664b06b67f2dfb3bae0821);
+        
+
+        marker_3f2ad9099fe1407ba63b9e9b3148a850.bindPopup(popup_2ee5bb5d425d473ba9fc9adefdc68f8f)
+        ;
+
+        
+    
+    
+            var marker_c9007ca457be413fbcd98760c9143467 = L.marker(
+                [40.63367, 14.6026095],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_ec0550cbdaa74080acd26ea0a999500b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6398b118d0374d9da85cf6b197c6e0d3 = $(`<div id="html_6398b118d0374d9da85cf6b197c6e0d3" style="width: 100.0%; height: 100.0%;"><h2 id="1999">6th SIROCCO 1999: Lacanau-Océan, France </div>`)[0];
+            popup_ec0550cbdaa74080acd26ea0a999500b.setContent(html_6398b118d0374d9da85cf6b197c6e0d3);
+        
+
+        marker_c9007ca457be413fbcd98760c9143467.bindPopup(popup_ec0550cbdaa74080acd26ea0a999500b)
+        ;
+
+        
+    
+    
+            var marker_47b18d4f1c544d7686c22ce855a50850 = L.marker(
+                [46.1589601, 8.7632982],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_493fee17dbbd42828a5959d5ad530f7f = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e312e345944548feb5dc56806b4bf9b0 = $(`<div id="html_e312e345944548feb5dc56806b4bf9b0" style="width: 100.0%; height: 100.0%;"><h2 id="1998">5th SIROCCO 1998: Amalfi, Italy </div>`)[0];
+            popup_493fee17dbbd42828a5959d5ad530f7f.setContent(html_e312e345944548feb5dc56806b4bf9b0);
+        
+
+        marker_47b18d4f1c544d7686c22ce855a50850.bindPopup(popup_493fee17dbbd42828a5959d5ad530f7f)
+        ;
+
+        
+    
+    
+            var marker_64193765969942c99b5f470a6a121ea2 = L.marker(
+                [43.36913925, 11.3594303883791],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_e10df7c69c074c85bfb90e6d92a92193 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1f06195695504b428fa574a8d092a2a6 = $(`<div id="html_1f06195695504b428fa574a8d092a2a6" style="width: 100.0%; height: 100.0%;"><h2 id="1997">4th SIROCCO 1997: Monte Veritá, Ascona, Switzerland </div>`)[0];
+            popup_e10df7c69c074c85bfb90e6d92a92193.setContent(html_1f06195695504b428fa574a8d092a2a6);
+        
+
+        marker_64193765969942c99b5f470a6a121ea2.bindPopup(popup_e10df7c69c074c85bfb90e6d92a92193)
+        ;
+
+        
+    
+    
+            var marker_bd95343bb0d3417b9a06eb5781d198ea = L.marker(
+                [37.6381951, 21.6301481641478],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_97d8f16f2e4e496a98799c7c3666eeb4 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e563e899350e49648f8f8c678862aa83 = $(`<div id="html_e563e899350e49648f8f8c678862aa83" style="width: 100.0%; height: 100.0%;"><h2 id="1996">3rd SIROCCO 1996: Certosa di Pontignano, Siena, Italy </div>`)[0];
+            popup_97d8f16f2e4e496a98799c7c3666eeb4.setContent(html_e563e899350e49648f8f8c678862aa83);
+        
+
+        marker_bd95343bb0d3417b9a06eb5781d198ea.bindPopup(popup_97d8f16f2e4e496a98799c7c3666eeb4)
+        ;
+
+        
+    
+    
+            var marker_08a81e9a8b9b43089113fe25f3de6186 = L.marker(
+                [45.421106, -75.690308],
+                {}
+            ).addTo(map_43cf28c292384828ac6dae7d4d48aff2);
+        
+    
+        var popup_4075de4691ff4099b056c91cb9162a61 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_7cbff2139cd24d3d987ac1d90c706480 = $(`<div id="html_7cbff2139cd24d3d987ac1d90c706480" style="width: 100.0%; height: 100.0%;"><h2 id="1995">2nd SIROCCO 1995: Olympia, Greece </div>`)[0];
+            popup_4075de4691ff4099b056c91cb9162a61.setContent(html_7cbff2139cd24d3d987ac1d90c706480);
+        
+
+        marker_08a81e9a8b9b43089113fe25f3de6186.bindPopup(popup_4075de4691ff4099b056c91cb9162a61)
+        ;
+
+        
+    
+</script>

@@ -1,0 +1,757 @@
+<?xml version="1.0"?>
+<dblpperson name="Thi Mai Trang Nguyen" n="47">
+<person key="homepages/97/5124" mdate="2009-06-10">
+<author>Thi Mai Trang Nguyen</author>
+</person>
+<r><inproceedings key="conf/mwcn/GuerraGRNP19" mdate="2019-10-25">
+<author>Erik Ortiz Guerra</author>
+<author>Julio Cesar Perez Garcia</author>
+<author>Vitalio Alfonso Reguera</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Guy Pujolle</author>
+<title>A Novel Multi-Radio Rendezvous Scheme for Cognitive Radio Networks.</title>
+<pages>154-161</pages>
+<year>2019</year>
+<booktitle>WMNC</booktitle>
+<ee>https://doi.org/10.23919/WMNC.2019.8881570</ee>
+<crossref>conf/mwcn/2019</crossref>
+<url>db/conf/mwcn/wmnc2019.html#GuerraGRNP19</url>
+</inproceedings>
+</r>
+<r><proceedings key="conf/mwcn/2019" mdate="2019-10-25">
+<editor>M&#233;rouane Debbah</editor>
+<editor>Guy Pujolle</editor>
+<editor>Zoubir Mammeri</editor>
+<editor>Mar&#237;lia Curado</editor>
+<editor>Thi Mai Trang Nguyen</editor>
+<editor>Selma Boumerdassi</editor>
+<title>12th IFIP Wireless and Mobile Networking Conference, WMNC 2019, Paris, France, September 11-13, 2019</title>
+<booktitle>WMNC</booktitle>
+<publisher>IEEE</publisher>
+<year>2019</year>
+<isbn>978-3-903176-18-8</isbn>
+<ee>https://ieeexplore.ieee.org/xpl/conhome/8878928/proceeding</ee>
+<url>db/conf/mwcn/wmnc2019.html</url>
+</proceedings>
+</r>
+<r><article key="journals/adt/NguyenHMMI18" mdate="2018-04-06">
+<author orcid="0000-0002-9024-3940">Thi Mai Trang Nguyen</author>
+<author>Lyes Hamidouche</author>
+<author>Fabien Mathieu</author>
+<author>S&#233;bastien Monnet</author>
+<author>Syphax Iskounen</author>
+<title>SDN-based Wi-Fi Direct clustering for cloud access in campus networks.</title>
+<pages>239-249</pages>
+<year>2018</year>
+<volume>73</volume>
+<journal>Annales des T&#233;l&#233;communications</journal>
+<number>3-4</number>
+<ee>https://doi.org/10.1007/s12243-017-0598-z</ee>
+<url>db/journals/adt/adt73.html#NguyenHMMI18</url>
+</article>
+</r>
+<r><article key="journals/jnca/ChenYZWLN18" mdate="2019-01-17">
+<author>Longbiao Chen</author>
+<author>Dingqi Yang</author>
+<author>Daqing Zhang 0001</author>
+<author>Cheng Wang 0003</author>
+<author>Jonathan Li</author>
+<author>Thi Mai Trang Nguyen</author>
+<title>Deep mobile traffic forecast and complementary base station clustering for C-RAN optimization.</title>
+<pages>59-69</pages>
+<year>2018</year>
+<volume>121</volume>
+<journal>J. Network and Computer Applications</journal>
+<ee>https://doi.org/10.1016/j.jnca.2018.07.015</ee>
+<url>db/journals/jnca/jnca121.html#ChenYZWLN18</url>
+</article>
+</r>
+<r><inproceedings key="conf/noms/AzzouniBNP18" mdate="2018-07-10">
+<author>Abdelhadi Azzouni</author>
+<author>Raouf Boutaba</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Guy Pujolle</author>
+<title>sOFTDP: Secure and efficient OpenFlow topology discovery protocol.</title>
+<pages>1-7</pages>
+<year>2018</year>
+<booktitle>NOMS</booktitle>
+<ee>https://doi.org/10.1109/NOMS.2018.8406229</ee>
+<crossref>conf/noms/2018</crossref>
+<url>db/conf/noms/noms2018.html#AzzouniBNP18</url>
+</inproceedings>
+</r>
+<r><article key="journals/fcsc/ChenMNPJ17" mdate="2018-02-19">
+<author>Longbiao Chen</author>
+<author orcid="0000-0002-9847-7784">Xiaojuan Ma</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Gang Pan 0001</author>
+<author>J&#233;r&#233;mie Jakubowicz</author>
+<title>Understanding bike trip patterns leveraging bike sharing system open data.</title>
+<pages>38-48</pages>
+<year>2017</year>
+<volume>11</volume>
+<journal>Frontiers Comput. Sci.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s11704-016-6006-4</ee>
+<url>db/journals/fcsc/fcsc11.html#ChenMNPJ17</url>
+</article>
+</r>
+<r><article key="journals/imwut/ChenFWZYLNPW17" mdate="2019-01-17">
+<author>Longbiao Chen</author>
+<author>Xiaoliang Fan</author>
+<author>Leye Wang</author>
+<author>Daqing Zhang 0001</author>
+<author>Zhiyong Yu</author>
+<author>Jonathan Li</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Gang Pan 0001</author>
+<author>Cheng Wang 0003</author>
+<title>RADAR: Road Obstacle Identification for Disaster Response Leveraging Cross-Domain Urban Data.</title>
+<pages>130:1-130:23</pages>
+<year>2017</year>
+<volume>1</volume>
+<journal>IMWUT</journal>
+<number>4</number>
+<ee>https://doi.org/10.1145/3161159</ee>
+<url>db/journals/imwut/imwut1.html#ChenFWZYLNPW17</url>
+</article>
+</r>
+<r><inproceedings key="conf/iwcmc/OualiKNSK17" mdate="2017-07-24">
+<author>Kaouthar Ouali</author>
+<author>Meriem Kassar</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Kaouthar Sethom</author>
+<author>Brigitte Kervella</author>
+<title>Modeling D2D handover management in 5G cellular networks.</title>
+<pages>196-201</pages>
+<year>2017</year>
+<booktitle>IWCMC</booktitle>
+<ee>https://doi.org/10.1109/IWCMC.2017.7986285</ee>
+<crossref>conf/iwcmc/2017</crossref>
+<url>db/conf/iwcmc/iwcmc2017.html#OualiKNSK17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/BaccouchATBN17" mdate="2017-07-24">
+<author>Hana Baccouch</author>
+<author>Paul-Louis Ageneau</author>
+<author>Nicolas Tizon</author>
+<author>Nadia Boukhatem</author>
+<author>Thi Mai Trang Nguyen</author>
+<title>Bounded network coding redundancy for multi-layer video streaming.</title>
+<pages>799-804</pages>
+<year>2017</year>
+<booktitle>IWCMC</booktitle>
+<ee>https://doi.org/10.1109/IWCMC.2017.7986387</ee>
+<crossref>conf/iwcmc/2017</crossref>
+<url>db/conf/iwcmc/iwcmc2017.html#BaccouchATBN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/medhocnet/AzzouniNBP17" mdate="2017-08-21">
+<author>Abdelhadi Azzouni</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Raouf Boutaba</author>
+<author>Guy Pujolle</author>
+<title>Limitations of openflow topology discovery protocol.</title>
+<pages>1-3</pages>
+<year>2017</year>
+<booktitle>Med-Hoc-Net</booktitle>
+<ee>https://doi.org/10.1109/MedHocNet.2017.8001642</ee>
+<crossref>conf/medhocnet/2017</crossref>
+<url>db/conf/medhocnet/medhocnet2017.html#AzzouniNBP17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/pimrc/SilvaMNNN17" mdate="2018-11-02">
+<author>Wendley S. da Silva</author>
+<author>Daniel F. Macedo</author>
+<author orcid="0000-0001-5427-2384">Michele Nogueira</author>
+<author>Thi Mai Trang Nguyen</author>
+<author orcid="0000-0002-1095-6714">Jos&#233; Marcos S. Nogueira</author>
+<title>A multilayer link quality estimator for reliable machine-to-machine communication.</title>
+<pages>1-7</pages>
+<year>2017</year>
+<booktitle>PIMRC</booktitle>
+<ee>https://doi.org/10.1109/PIMRC.2017.8292626</ee>
+<crossref>conf/pimrc/2017</crossref>
+<url>db/conf/pimrc/pimrc2017.html#SilvaMNNN17</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/uic/ChenLFLW0JN17" mdate="2019-01-17">
+<author>Longbiao Chen</author>
+<author>Linjin Liu</author>
+<author>Xiaoliang Fan</author>
+<author>Johnathan Li</author>
+<author>Cheng Wang 0003</author>
+<author>Gang Pan 0001</author>
+<author>J&#233;r&#233;mie Jakubowicz</author>
+<author>Thi Mai Trang Nguyen</author>
+<title>Complementary base station clustering for cost-effective and energy-efficient cloud-RAN.</title>
+<pages>1-7</pages>
+<year>2017</year>
+<booktitle>SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI</booktitle>
+<ee>https://doi.org/10.1109/UIC-ATC.2017.8397526</ee>
+<crossref>conf/uic/2017</crossref>
+<url>db/conf/uic/uic2017.html#ChenLFLW0JN17</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/AzzouniNBP17" mdate="2018-08-13">
+<author>Abdelhadi Azzouni</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Raouf Boutaba</author>
+<author>Guy Pujolle</author>
+<title>Limitations of OpenFlow Topology Discovery Protocol.</title>
+<year>2017</year>
+<volume>abs/1705.00706</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.00706</ee>
+<url>db/journals/corr/corr1705.html#AzzouniNBP17</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AzzouniBNP17" mdate="2018-08-13">
+<author>Abdelhadi Azzouni</author>
+<author>Raouf Boutaba</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Guy Pujolle</author>
+<title>sOFTDP: Secure and Efficient Topology Discovery Protocol for SDN.</title>
+<year>2017</year>
+<volume>abs/1705.04527</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1705.04527</ee>
+<url>db/journals/corr/corr1705.html#AzzouniBNP17</url>
+</article>
+</r>
+<r><inproceedings key="conf/globecom/AzzouniBNPB16" mdate="2017-05-23">
+<author>Abdelhadi Azzouni</author>
+<author>Othmen Braham</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Guy Pujolle</author>
+<author>Raouf Boutaba</author>
+<title>Fingerprinting OpenFlow Controllers: The First Step to Attack an SDN Control Plane.</title>
+<pages>1-6</pages>
+<year>2016</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOCOM.2016.7841843</ee>
+<crossref>conf/globecom/2016</crossref>
+<url>db/conf/globecom/globecom2016.html#AzzouniBNPB16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/huc/ChenZWYMLWPNJ16" mdate="2018-11-06">
+<author>Longbiao Chen</author>
+<author>Daqing Zhang 0001</author>
+<author>Leye Wang</author>
+<author>Dingqi Yang</author>
+<author orcid="0000-0002-9847-7784">Xiaojuan Ma</author>
+<author>Shijian Li</author>
+<author>Zhaohui Wu 0001</author>
+<author>Gang Pan 0001</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>J&#233;r&#233;mie Jakubowicz</author>
+<title>Dynamic cluster-based over-demand prediction in bike sharing systems.</title>
+<pages>841-852</pages>
+<year>2016</year>
+<booktitle>UbiComp</booktitle>
+<ee>https://doi.org/10.1145/2971648.2971652</ee>
+<crossref>conf/huc/2016</crossref>
+<url>db/conf/huc/ubicomp2016.html#ChenZWYMLWPNJ16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nof/AymenYN16" mdate="2017-05-26">
+<author>Lamara Aymen</author>
+<author>Baoliu Ye</author>
+<author>Thi Mai Trang Nguyen</author>
+<title>Offloading performance evaluation for network coding-based cooperative mobile video streaming.</title>
+<pages>1-5</pages>
+<year>2016</year>
+<booktitle>NOF</booktitle>
+<ee>https://doi.org/10.1109/NOF.2016.7810117</ee>
+<crossref>conf/nof/2016</crossref>
+<url>db/conf/nof/nof2016.html#AymenYN16</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nof/IskounenNMH16" mdate="2017-05-26">
+<author>Syphax Iskounen</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>S&#233;bastien Monnet</author>
+<author>Lyes Hamidouche</author>
+<title>Device-to-Device communications using Wi-Fi direct for dense wireless networks.</title>
+<pages>1-3</pages>
+<year>2016</year>
+<booktitle>NOF</booktitle>
+<ee>https://doi.org/10.1109/NOF.2016.7810126</ee>
+<crossref>conf/nof/2016</crossref>
+<url>db/conf/nof/nof2016.html#IskounenNMH16</url>
+</inproceedings>
+</r>
+<r><article publtype="informal" key="journals/corr/IskounenNM16" mdate="2018-08-13">
+<author>Syphax Iskounen</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>S&#233;bastien Monnet</author>
+<title>WiFi-Direct Simulation for INET in OMNeT++.</title>
+<year>2016</year>
+<volume>abs/1609.04604</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1609.04604</ee>
+<url>db/journals/corr/corr1609.html#IskounenNM16</url>
+</article>
+</r>
+<r><article publtype="informal" key="journals/corr/AzzouniBNPB16" mdate="2018-08-13">
+<author>Abdelhadi Azzouni</author>
+<author>Othmen Braham</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Guy Pujolle</author>
+<author>Raouf Boutaba</author>
+<title>Fingerprinting OpenFlow controllers: The first step to attack an SDN control plane.</title>
+<year>2016</year>
+<volume>abs/1611.02370</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1611.02370</ee>
+<url>db/journals/corr/corr1611.html#AzzouniBNPB16</url>
+</article>
+</r>
+<r><article key="journals/tnsm/SecciPNN14" mdate="2017-06-09">
+<author orcid="0000-0002-6129-0676">Stefano Secci</author>
+<author>Guy Pujolle</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Sinh Chung Nguyen</author>
+<title>Performance-Cost Trade-Off Strategic Evaluation of Multipath TCP Communications.</title>
+<pages>250-263</pages>
+<year>2014</year>
+<volume>11</volume>
+<journal>IEEE Trans. Network and Service Management</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TNSM.2014.2321838</ee>
+<url>db/journals/tnsm/tnsm11.html#SecciPNN14</url>
+</article>
+</r>
+<r><inproceedings key="conf/wd/VuNPB14" mdate="2017-05-25">
+<author>Thuong Van Vu</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Guy Pujolle</author>
+<author>Nadia Boukhatem</author>
+<title>DODEX+: A new network coding scheme for mesh networks in mobile cloud computing.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>Wireless Days</booktitle>
+<ee>https://doi.org/10.1109/WD.2014.7020796</ee>
+<crossref>conf/wd/2014</crossref>
+<url>db/conf/wd/wd2014.html#VuNPB14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wowmom/VuBNP14" mdate="2019-02-20">
+<author>Thuong Van Vu</author>
+<author>Nadia Boukhatem</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Guy Pujolle</author>
+<title>Dynamic coding for TCP transmission reliability in multi-hop wireless networks.</title>
+<pages>1-6</pages>
+<year>2014</year>
+<booktitle>WoWMoM</booktitle>
+<ee>https://doi.org/10.1109/WoWMoM.2014.6918949</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/WoWMoM.2014.6918949</ee>
+<crossref>conf/wowmom/2014</crossref>
+<url>db/conf/wowmom/wowmom2014.html#VuBNP14</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nof/PhungVN13" mdate="2017-05-26">
+<author>Cao Vien Phung</author>
+<author>Thuong Van Vu</author>
+<author>Thi Mai Trang Nguyen</author>
+<title>DCAR coding gain modeling and analysis.</title>
+<pages>1-3</pages>
+<year>2013</year>
+<booktitle>NOF</booktitle>
+<ee>https://doi.org/10.1109/NOF.2013.6724527</ee>
+<crossref>conf/nof/2013</crossref>
+<url>db/conf/nof/nof2013.html#PhungVN13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wcnc/VuBNP13" mdate="2017-05-24">
+<author>Thuong Van Vu</author>
+<author>Nadia Boukhatem</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Guy Pujolle</author>
+<title>Adaptive redundancy control with network coding in multi-hop wireless networks.</title>
+<pages>1510-1515</pages>
+<year>2013</year>
+<booktitle>WCNC</booktitle>
+<ee>https://doi.org/10.1109/WCNC.2013.6554787</ee>
+<crossref>conf/wcnc/2013</crossref>
+<url>db/conf/wcnc/wcnc2013.html#VuBNP13</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/NguyenNPS12" mdate="2017-06-04">
+<author>Sinh Chung Nguyen</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Guy Pujolle</author>
+<author orcid="0000-0002-6129-0676">Stefano Secci</author>
+<title>Strategic evaluation of performance-cost trade-offs in a multipath TCP multihoming context.</title>
+<pages>1443-1447</pages>
+<year>2012</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2012.6364582</ee>
+<crossref>conf/icc/2012</crossref>
+<url>db/conf/icc/icc2012.html#NguyenNPS12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icc/VuNP12" mdate="2017-05-25">
+<author>Thuong Van Vu</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Guy Pujolle</author>
+<title>Distributed Opportunistic and Diffused Coding in multi-hop wireless networks.</title>
+<pages>5583-5587</pages>
+<year>2012</year>
+<booktitle>ICC</booktitle>
+<ee>https://doi.org/10.1109/ICC.2012.6364712</ee>
+<crossref>conf/icc/2012</crossref>
+<url>db/conf/icc/icc2012.html#VuNP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icnidc/ZhangNP12" mdate="2017-06-22">
+<author>Xiaofei Zhang</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Guy Pujolle</author>
+<title>Kalman filter based bandwidth estimation and predictive flow distribution for concurrent multipath transfer in wireless networks.</title>
+<pages>305-309</pages>
+<year>2012</year>
+<booktitle>IC-NIDC</booktitle>
+<ee>https://doi.org/10.1109/ICNIDC.2012.6418765</ee>
+<crossref>conf/icnidc/2012</crossref>
+<url>db/conf/icnidc/icnidc2012.html#ZhangNP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/isspa/ToONFP12" mdate="2018-11-30">
+<author>Ba-Lam To</author>
+<author>Mohamed El Otmani</author>
+<author>Thi Mai Trang Nguyen</author>
+<author orcid="0000-0001-9763-0778">Anne Fladenmuller</author>
+<author>Guy Pujolle</author>
+<title>Decentralized cooperative spectrum sensing for Cognitive Radio Ad-Hoc Network: Hidden terminal awareness approach.</title>
+<pages>146-151</pages>
+<year>2012</year>
+<booktitle>ISSPA</booktitle>
+<ee>https://doi.org/10.1109/ISSPA.2012.6310535</ee>
+<crossref>conf/isspa/2012</crossref>
+<url>db/conf/isspa/isspa2012.html#ToONFP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iwcmc/ToNP12" mdate="2017-05-24">
+<author>Ba-Lam To</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Guy Pujolle</author>
+<title>Flow-based power control in Cognitive Radio ad-hoc Network.</title>
+<pages>130-135</pages>
+<year>2012</year>
+<booktitle>IWCMC</booktitle>
+<ee>https://doi.org/10.1109/IWCMC.2012.6314190</ee>
+<crossref>conf/iwcmc/2012</crossref>
+<url>db/conf/iwcmc/iwcmc2012.html#ToNP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mswim/VuNP12" mdate="2018-11-06">
+<author>Thuong Van Vu</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Guy Pujolle</author>
+<title>Distributed opportunistic and diffused coding with multiple decoders in wireless mesh networks.</title>
+<pages>409-412</pages>
+<year>2012</year>
+<booktitle>MSWiM</booktitle>
+<ee>https://doi.org/10.1145/2387238.2387306</ee>
+<crossref>conf/mswim/2012</crossref>
+<url>db/conf/mswim/mswim2012.html#VuNP12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ccnc/MiraniZBN11" mdate="2019-05-17">
+<author>Farhan H. Mirani</author>
+<author>Xiaofei Zhang</author>
+<author>Nadia Boukhatem</author>
+<author>Thi Mai Trang Nguyen</author>
+<title>Cross-layer FPS: A SCTP-based cross-layer data scheduling approach.</title>
+<pages>192-197</pages>
+<year>2011</year>
+<booktitle>CCNC</booktitle>
+<ee>https://doi.org/10.1109/CCNC.2011.5766452</ee>
+<crossref>conf/ccnc/2011</crossref>
+<url>db/conf/ccnc/ccnc2011.html#MiraniZBN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icnsc/LePN11" mdate="2017-05-24">
+<author>Phu Hung Le</author>
+<author>Guy Pujolle</author>
+<author>Thi Mai Trang Nguyen</author>
+<title>An interference-aware multi-path routing protocol for mobile ad hoc network.</title>
+<pages>503-507</pages>
+<year>2011</year>
+<booktitle>ICNSC</booktitle>
+<ee>https://doi.org/10.1109/ICNSC.2011.5874934</ee>
+<crossref>conf/icnsc/2011</crossref>
+<url>db/conf/icnsc/icnsc2011.html#LePN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/nof/OriolN11" mdate="2017-05-26">
+<author>David Oriol</author>
+<author>Thi Mai Trang Nguyen</author>
+<title>Towards protocol design based on composition of functionalities.</title>
+<pages>15-19</pages>
+<year>2011</year>
+<booktitle>NOF</booktitle>
+<ee>https://doi.org/10.1109/NOF.2011.6126674</ee>
+<crossref>conf/nof/2011</crossref>
+<url>db/conf/nof/nof2011.html#OriolN11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ntms/ZhangNP11" mdate="2017-05-24">
+<author>Xiaofei Zhang</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Guy Pujolle</author>
+<title>Cooperative Mobility Management in Multihomed End-to-End Communications.</title>
+<pages>1-5</pages>
+<year>2011</year>
+<booktitle>NTMS</booktitle>
+<ee>https://doi.org/10.1109/NTMS.2011.5720583</ee>
+<crossref>conf/ntms/2011</crossref>
+<url>db/conf/ntms/ntms2011.html#ZhangNP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wocn/NguyenZNP11" mdate="2017-05-25">
+<author>Sinh Chung Nguyen</author>
+<author>Xiaofei Zhang</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Guy Pujolle</author>
+<title>Evaluation of throughput optimization and load sharing of multipath TCP in heterogeneous networks.</title>
+<pages>1-5</pages>
+<year>2011</year>
+<booktitle>WOCN</booktitle>
+<ee>https://doi.org/10.1109/WOCN.2011.5872966</ee>
+<crossref>conf/wocn/2011</crossref>
+<url>db/conf/wocn/wocn2011.html#NguyenZNP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/cnsr/KarouiaLNP10" mdate="2017-05-21">
+<author>Abdeljalil Karouia</author>
+<author>Rami Langar</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Guy Pujolle</author>
+<title>SOA-Based Approach for the Design of the Future Internet.</title>
+<pages>361-368</pages>
+<year>2010</year>
+<booktitle>CNSR</booktitle>
+<ee>https://doi.org/10.1109/CNSR.2010.19</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/CNSR.2010.19</ee>
+<crossref>conf/cnsr/2010</crossref>
+<url>db/conf/cnsr/cnsr2010.html#KarouiaLNP10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip6/Nguyen10" mdate="2018-06-26">
+<author>Thi Mai Trang Nguyen</author>
+<title>On the Way to a Theory for Network Architectures.</title>
+<pages>108-119</pages>
+<year>2010</year>
+<booktitle>WCITD/NF</booktitle>
+<ee type="oa">https://doi.org/10.1007/978-3-642-15476-8_12</ee>
+<crossref>conf/ifip6/2010</crossref>
+<url>db/conf/ifip6/wcitd2010.html#Nguyen10</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/monami/JohnssonRNPB09" mdate="2017-05-24">
+<author>Martin Johnsson</author>
+<author>Mar&#237;a &#193;ngeles Callejo-Rodr&#237;guez</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Petteri P&#246;yh&#246;nen</author>
+<author>Zohra Boudjemil</author>
+<title>Towards Automized Interconnection of Networks: Composition and Dynamic Negotiation of SLAs.</title>
+<pages>81-92</pages>
+<year>2009</year>
+<booktitle>MONAMI</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-11817-3_8</ee>
+<ee>http://eudl.eu/doi/10.1007/978-3-642-11817-3_8</ee>
+<crossref>conf/monami/2009</crossref>
+<url>db/conf/monami/monami2009.html#JohnssonRNPB09</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/mobimedia/JohnssonHFANL08" mdate="2017-05-21">
+<author>Martin Johnsson</author>
+<author>Jyrki Huusko</author>
+<author>Tapio Frantti</author>
+<author>Frank-Uwe Andersen</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Miguel Ponce de Leon</author>
+<title>Towards a New Architectural Framework - The Nth Stratum Concept.</title>
+<year>2008</year>
+<booktitle>MobiMedia</booktitle>
+<ee>https://doi.org/10.4108/ICST.MOBIMEDIA2008.3995</ee>
+<crossref>conf/mobimedia/2008</crossref>
+<url>db/conf/mobimedia/mobimedia2008.html#JohnssonHFANL08</url>
+</inproceedings>
+</r>
+<r><article key="journals/jnw/NguyenSG06" mdate="2017-05-27">
+<author>Thi Mai Trang Nguyen</author>
+<author>Mohamed Ali Sfaxi</author>
+<author>Solange Ghernaouti-Helie</author>
+<title>802.11i Encryption Key Distribution Using Quantum Cryptography.</title>
+<pages>9-20</pages>
+<year>2006</year>
+<volume>1</volume>
+<journal>JNW</journal>
+<number>5</number>
+<ee>https://doi.org/10.4304/jnw.1.5.9-20</ee>
+<url>db/journals/jnw/jnw1.html#NguyenSG06</url>
+</article>
+</r>
+<r><inproceedings key="conf/IEEEares/NguyenSG06" mdate="2017-05-24">
+<author>Thi Mai Trang Nguyen</author>
+<author>Mohamed Ali Sfaxi</author>
+<author>Solange Ghernaouti-Helie</author>
+<title>Integration of Quantum Cryptography in 802.11 Networks.</title>
+<pages>116-123</pages>
+<year>2006</year>
+<crossref>conf/IEEEares/2006</crossref>
+<booktitle>ARES</booktitle>
+<ee>https://doi.org/10.1109/ARES.2006.75</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ARES.2006.75</ee>
+<url>db/conf/IEEEares/ares2006.html#NguyenSG06</url>
+</inproceedings>
+</r>
+<r><article key="journals/adt/NguyenB04" mdate="2017-05-28">
+<author>Thi Mai Trang Nguyen</author>
+<author>Nadia Boukhatem</author>
+<title>Service level negotiation andcops-sls protocol.</title>
+<pages>55-69</pages>
+<year>2004</year>
+<volume>59</volume>
+<journal>Annales des T&#233;l&#233;communications</journal>
+<number>1-2</number>
+<ee>https://doi.org/10.1007/BF03179674</ee>
+<url>db/journals/adt/adt59.html#NguyenB04</url>
+</article>
+</r>
+<r><inproceedings key="conf/networking/NguyenBP04" mdate="2017-05-26">
+<author>Thi Mai Trang Nguyen</author>
+<author>Nadia Boukhatem</author>
+<author>Guy Pujolle</author>
+<title>Analysis of Protocol Operations and Scalability of COPS-SLS Negotiation System.</title>
+<pages>1420-1425</pages>
+<ee>https://doi.org/10.1007/978-3-540-24693-0_129</ee>
+<year>2004</year>
+<crossref>conf/networking/2004</crossref>
+<booktitle>NETWORKING</booktitle>
+<url>db/conf/networking/networking2004.html#NguyenBP04</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/rivf/NguyenPBG03" mdate="2004-02-04">
+<author>Thi Mai Trang Nguyen</author>
+<author>Guy Pujolle</author>
+<author>Nadia Boukhatem</author>
+<author>Dominique Ga&#239;ti</author>
+<title>Contr&#244;le des r&#233;seaux IP fixes et Mobiles.</title>
+<pages>127-132</pages>
+<year>2003</year>
+<crossref>conf/rivf/2003</crossref>
+<booktitle>RIVF</booktitle>
+<url>db/conf/rivf/rivf2003.html#NguyenPBG03</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/ifip6-2/TrangB02" mdate="2008-02-01">
+<author>Thi Mai Trang Nguyen</author>
+<author>Nadia Boukhatem</author>
+<title>Policy-based service level negotitation with COPS-SLS.</title>
+<pages>191-202</pages>
+<year>2002</year>
+<crossref>conf/ifip6-2/2002</crossref>
+<booktitle>Net-Con</booktitle>
+<url>db/conf/ifip6-2/ifip6-2-2002.html#TrangB02</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/smartnet/BoukhatemCCCGKNP02" mdate="2017-05-24">
+<author>Nadia Boukhatem</author>
+<author>Benoit Campedel</author>
+<author>Brahim Chakeur</author>
+<author>Hakima Chaouchi</author>
+<author>Vincent Guyot</author>
+<author>Francine Krief</author>
+<author>Thi Mai Trang Nguyen</author>
+<author>Guy Pujolle</author>
+<title>A New Intelligent Generation for Internet Networks.</title>
+<year>2002</year>
+<crossref>conf/smartnet/2002</crossref>
+<booktitle>SMARTNET</booktitle>
+<url>db/conf/smartnet/smartnet2002.html#BoukhatemCCCGKNP02</url>
+<ee>https://doi.org/10.1007/978-0-387-35584-9_8</ee>
+<pages>129-147</pages>
+</inproceedings>
+</r>
+<coauthors n="73" nc="4">
+<co c="0"><na f="a/Ageneau:Paul=Louis">Paul-Louis Ageneau</na></co>
+<co c="0"><na f="a/Andersen:Frank=Uwe">Frank-Uwe Andersen</na></co>
+<co c="2"><na f="a/Aymen:Lamara">Lamara Aymen</na></co>
+<co c="0"><na f="a/Azzouni:Abdelhadi">Abdelhadi Azzouni</na></co>
+<co c="0"><na f="b/Baccouch:Hana">Hana Baccouch</na></co>
+<co c="0"><na f="b/Boudjemil:Zohra">Zohra Boudjemil</na></co>
+<co c="0"><na f="b/Boukhatem:Nadia">Nadia Boukhatem</na></co>
+<co c="0"><na f="b/Boumerdassi:Selma">Selma Boumerdassi</na></co>
+<co c="0"><na f="b/Boutaba:Raouf">Raouf Boutaba</na></co>
+<co c="0"><na f="b/Braham:Othmen">Othmen Braham</na></co>
+<co c="0"><na f="c/Callejo=Rodr=iacute=guez:Mar=iacute=a_=Aacute=ngeles">Mar&#237;a &#193;ngeles Callejo-Rodr&#237;guez</na></co>
+<co c="0"><na f="c/Campedel:Benoit">Benoit Campedel</na></co>
+<co c="0"><na f="c/Chakeur:Brahim">Brahim Chakeur</na></co>
+<co c="0"><na f="c/Chaouchi:Hakima">Hakima Chaouchi</na></co>
+<co c="0"><na f="c/Chen:Longbiao">Longbiao Chen</na></co>
+<co c="0"><na f="c/Curado:Mar=iacute=lia">Mar&#237;lia Curado</na></co>
+<co c="0"><na f="d/Debbah:M=eacute=rouane">M&#233;rouane Debbah</na></co>
+<co c="0"><na f="f/Fan:Xiaoliang">Xiaoliang Fan</na></co>
+<co c="0"><na f="f/Fladenmuller:Anne">Anne Fladenmuller</na></co>
+<co c="0"><na f="f/Frantti:Tapio">Tapio Frantti</na></co>
+<co c="0"><na f="g/Ga=iuml=ti:Dominique">Dominique Ga&#239;ti</na></co>
+<co c="0"><na f="g/Garcia:Julio_Cesar_Perez">Julio Cesar Perez Garcia</na></co>
+<co c="3"><na f="g/Ghernaouti=Helie:Solange">Solange Ghernaouti-Helie</na></co>
+<co c="0"><na f="g/Guerra:Erik_Ortiz">Erik Ortiz Guerra</na></co>
+<co c="0"><na f="g/Guyot:Vincent">Vincent Guyot</na></co>
+<co c="1"><na f="h/Hamidouche:Lyes">Lyes Hamidouche</na></co>
+<co c="0"><na f="h/Huusko:Jyrki">Jyrki Huusko</na></co>
+<co c="1"><na f="i/Iskounen:Syphax">Syphax Iskounen</na></co>
+<co c="0"><na f="j/Jakubowicz:J=eacute=r=eacute=mie">J&#233;r&#233;mie Jakubowicz</na></co>
+<co c="0"><na f="j/Johnsson:Martin">Martin Johnsson</na></co>
+<co c="0"><na f="k/Karouia:Abdeljalil">Abdeljalil Karouia</na></co>
+<co c="0"><na f="k/Kassar:Meriem">Meriem Kassar</na></co>
+<co c="0"><na f="k/Kervella:Brigitte">Brigitte Kervella</na></co>
+<co c="0"><na f="k/Krief:Francine">Francine Krief</na></co>
+<co c="0"><na f="l/Langar:Rami">Rami Langar</na></co>
+<co c="0"><na f="l/Le:Phu_Hung">Phu Hung Le</na></co>
+<co c="0"><na f="l/Leon:Miguel_Ponce_de">Miguel Ponce de Leon</na></co>
+<co c="0"><na f="l/Li:Johnathan">Johnathan Li</na></co>
+<co c="0"><na f="l/Li:Jonathan">Jonathan Li</na></co>
+<co c="0"><na f="l/Li:Shijian">Shijian Li</na></co>
+<co c="0" n="2"><na f="l/Lima:Michele_Nogueira">Michele Nogueira Lima</na><na>Michele Nogueira</na></co>
+<co c="0"><na f="l/Liu:Linjin">Linjin Liu</na></co>
+<co c="0"><na f="m/Ma:Xiaojuan">Xiaojuan Ma</na></co>
+<co c="0"><na f="m/Macedo:Daniel_F=">Daniel F. Macedo</na></co>
+<co c="0"><na f="m/Mammeri:Zoubir">Zoubir Mammeri</na></co>
+<co c="1"><na f="m/Mathieu:Fabien">Fabien Mathieu</na></co>
+<co c="0"><na f="m/Mirani:Farhan_H=">Farhan H. Mirani</na></co>
+<co c="1"><na f="m/Monnet:S=eacute=bastien">S&#233;bastien Monnet</na></co>
+<co c="0"><na f="n/Nguyen:Sinh_Chung">Sinh Chung Nguyen</na></co>
+<co c="0"><na f="n/Nogueira:Jos=eacute=_Marcos_S=">Jos&#233; Marcos S. Nogueira</na></co>
+<co c="-1"><na f="o/Oriol:David">David Oriol</na></co>
+<co c="0"><na f="o/Otmani:Mohamed_El">Mohamed El Otmani</na></co>
+<co c="0"><na f="o/Ouali:Kaouthar">Kaouthar Ouali</na></co>
+<co c="0"><na f="p/Pan_0001:Gang">Gang Pan 0001</na></co>
+<co c="0"><na f="p/Phung:Cao_Vien">Cao Vien Phung</na></co>
+<co c="0"><na f="p/P=ouml=yh=ouml=nen:Petteri">Petteri P&#246;yh&#246;nen</na></co>
+<co c="0"><na f="p/Pujolle:Guy">Guy Pujolle</na></co>
+<co c="0"><na f="r/Reguera:Vitalio_Alfonso">Vitalio Alfonso Reguera</na></co>
+<co c="0"><na f="s/Secci:Stefano">Stefano Secci</na></co>
+<co c="0"><na f="s/Sethom:Kaouthar">Kaouthar Sethom</na></co>
+<co c="3"><na f="s/Sfaxi:Mohamed_Ali">Mohamed Ali Sfaxi</na></co>
+<co c="0"><na f="s/Silva:Wendley_S=_da">Wendley S. da Silva</na></co>
+<co c="0"><na f="t/Tizon:Nicolas">Nicolas Tizon</na></co>
+<co c="0"><na f="t/To:Ba=Lam">Ba-Lam To</na></co>
+<co c="0"><na f="v/Vu:Thuong_Van">Thuong Van Vu</na></co>
+<co c="0"><na f="w/Wang_0003:Cheng">Cheng Wang 0003</na></co>
+<co c="0"><na f="w/Wang:Leye">Leye Wang</na></co>
+<co c="0"><na f="w/Wu_0001:Zhaohui">Zhaohui Wu 0001</na></co>
+<co c="0"><na f="y/Yang:Dingqi">Dingqi Yang</na></co>
+<co c="2"><na f="y/Ye:Baoliu">Baoliu Ye</na></co>
+<co c="0"><na f="y/Yu:Zhiyong">Zhiyong Yu</na></co>
+<co c="0"><na f="z/Zhang_0001:Daqing">Daqing Zhang 0001</na></co>
+<co c="0"><na f="z/Zhang:Xiaofei">Xiaofei Zhang</na></co>
+</coauthors>
+</dblpperson>
+
